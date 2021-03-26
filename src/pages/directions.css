@@ -1,0 +1,8 @@
+/* css code applied to the directions.jsx file to resize the map appropriately 
+The css styling sets the width and height of the map*/
+.mapWrapper {
+    width: 85vw;
+    height: 85vh;
+    margin-right: 100em;
+  }
+
